@@ -1,4 +1,4 @@
-# React Movie App 2019
+# Movie App Clone 2019
 
 React JS Course from Nomad Coders
 
